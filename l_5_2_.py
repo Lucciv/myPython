@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 #L5_2
 
+# function
 def function():
    pass
 
