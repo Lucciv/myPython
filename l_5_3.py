@@ -11,8 +11,8 @@ def function2():
 # function3
 def function3():
    pass
-# function
-def function():
+# function4
+def function4():
    pass
 # x=int(input(""))
 # n=int(input(""))
