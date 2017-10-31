@@ -2,11 +2,14 @@
 # -*- coding: utf-8 -*-
 #L5_3
 
-# function
-def function():
+# function1
+def function1():
    pass
-# function
-def function():
+# function2
+def function2():
+   pass
+# function3
+def function3():
    pass
 
 # x=int(input(""))
