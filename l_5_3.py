@@ -8,7 +8,9 @@ def function():
 # function
 def function():
    pass
-
+# function
+def function():
+   pass
 # x=int(input(""))
 # n=int(input(""))
 # print()
