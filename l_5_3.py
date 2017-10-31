@@ -11,7 +11,9 @@ def function2():
 # function3
 def function3():
    pass
-
+# function
+def function():
+   pass
 # x=int(input(""))
 # n=int(input(""))
 # print()
