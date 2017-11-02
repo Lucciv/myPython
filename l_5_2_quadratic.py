@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#L5_2
+#L5_2_二元一次方程
 
-# function
 def myquadratic():
    pass
 
