@@ -3,9 +3,10 @@
 #L5_2
 
 # function
-def function():
+def myquadratic():
    pass
 
-# x=int(input(""))
-# n=int(input(""))
-# print()
+x=int(input("Please input x: "))
+y=int(input("Please input y: "))
+z=int(input("Please input z: "))
+print(myquadratic(x,y,z))
