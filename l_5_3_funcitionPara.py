@@ -10,7 +10,7 @@ def strtolist(strnum):
    return listnum
 
 # addpower
-# x**1 + x**2 + x**3 + x**n的函数
+# a**2 + b**2 + ... + n**2的函数
 def addpower(*number):
    s=0
    for n in number:
