@@ -10,8 +10,3 @@ def power(x,n=2):
 
 x=int(input("please input your number: x= "))
 n=int(input("please input your number: n= "))
-
-if n==2:
-   print(power(x))
-else:
-   print(power(x,n))
