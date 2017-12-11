@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#L5_3_recursive function
+#L5_5_recursive function
 
 # fact
 def fact(n):
