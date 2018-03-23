@@ -3,4 +3,4 @@
 # 写杨辉三角的generator函数
 
 def triangles():
-   pass
+    pass

@@ -12,6 +12,6 @@ gb = sddum * MB
 nmb = int(input("每一天拿的容量数字(MB): "))
 # 累计结果
 time = gb / nmb
-print("拿到总容量需要的天数：",time)
+print("拿到总容量需要的天数：", time)
 yed = time / 365
-print("拿到总容量需要的年数：",yed)
+print("拿到总容量需要的年数：", yed)

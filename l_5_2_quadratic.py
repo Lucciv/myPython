@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# L5_2_二元一次方程
 import math
 
 def myquadratic(a, b, c):

@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#L53
 
 # strtolist
 # 把输入的字符串转换为列表
