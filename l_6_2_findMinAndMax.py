@@ -1,16 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# 请使用迭代查找一个list中最小和最大值，并返回一个tuple
 
-# strtolist
-# 把输入的字符串转换为列表
-def strtolist(s):
-    d = s.split(',')
-    l = [int(d[i]) for i in range(len(d))]
-    return l
-
-# findMinAndMax
-# 查找一个list中最小和最大值
 def findMinAndMax(L):
     # 检查数据类型
     if not isinstance(L, list):
@@ -33,6 +23,14 @@ def findMinAndMax(L):
                 max = i
         return (min, max)
 
-s = input("Please input your string: ")
-L = strtolist(s)
-print(findMinAndMax(L))
+# 测试
+if findMinAndMax([]) != (None, None):
+    print('测试失败!')
+elif findMinAndMax([7]) != (7, 7):
+    print('测试失败!')
+elif findMinAndMax([7, 1]) != (1, 7):
+    print('测试失败!')
+elif findMinAndMax([7, 1, 3, 9, 5]) != (1, 9):
+    print('测试失败!')
+else:
+    print('测试成功!')
